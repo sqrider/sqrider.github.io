@@ -176,6 +176,7 @@ hr.small {
 /* Services */
 
 .services {
+    background-color: rgb(20, 20, 102);
     padding: 50px 0;
 }
 
@@ -218,6 +219,7 @@ hr.small {
 /* Call to Action */
 
 .call-to-action {
+    background-color: rgb(33, 33, 98);
     padding: 50px 0;
 }
 
@@ -238,7 +240,10 @@ hr.small {
 }
 
 /* Footer */
-
+.footer {
+    background-color: rgb(0,0,92);
+}
 ul {
+    color: #337ab7;
     font-size: 35px; 
 }
